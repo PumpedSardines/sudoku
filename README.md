@@ -1,4 +1,4 @@
-# Sudoku in Rust
+# Sudoku
 A way to create, solve, save and load sudokus with rust.
 ```rs
 
